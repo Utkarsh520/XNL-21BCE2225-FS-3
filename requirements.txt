@@ -1,0 +1,9 @@
+Flask == 1.1.2
+pandas == 1.2.4
+numpy == 1.19.4
+scikit-learn==0.24.1
+haversine==2.3.1
+keras==2.4.3
+Jinja2 == 2.11.3
+gunicorn
+tensorflow-cpu
